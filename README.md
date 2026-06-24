@@ -24,7 +24,7 @@ iOS, and Flutter Web.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ## Currently
-- 🏢 Mobile App Architect @ Vermis Technology Labs
+- 🏢 Mobile App Architect @ NeoSoft
 - 📱 Contract Flutter Architect — Fintech (South Africa)
 - 🔍 Open to: Remote senior roles · International contracts
 
