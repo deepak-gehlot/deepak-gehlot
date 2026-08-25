@@ -7,10 +7,13 @@ iOS, and Flutter Web.
 ## What I specialize in
 - Clean Architecture in Flutter at scale
 - BLoC/Cubit state management patterns
+- Riverpod state management patterns
 - Flutter Web for enterprise SaaS platforms
 - Production API layers — Dio, token refresh, retry
 - Offline-first architecture and sync engines
 - Real-time systems with WebSockets
+- Automated Testing & Golden Tests
+- CI/CD & GitHub Actions
 
 ## Domain experience
 - Fintech — banking-grade mobile applications
@@ -24,8 +27,8 @@ iOS, and Flutter Web.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ## Currently
-- 🏢 Mobile App Architect @ NeoSoft
-- 📱 Contract Flutter Architect — Fintech (South Africa)
+- 🏢 Mobile App Architect @ Glytex Tech Consultancy 
+- 📱 Contract Senior Flutter Developer — Fintech (South Africa)
 - 🔍 Open to: Remote senior roles · International contracts
 
 ## Connect
