@@ -32,4 +32,4 @@ iOS, and Flutter Web.
 - 🔍 Open to: Remote senior roles · International contracts
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-gehlot-82933a91/)
